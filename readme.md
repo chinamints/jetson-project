@@ -1,8 +1,6 @@
 # Project Name
 
- Add short description of project here > 
-
-![add image descrition here](direct image link here)
+This project is a bird detection program that notifies the user of the presence of birds. Typically, birdwatchers or animal photographers may have to wait for hours to get their first sighting. With this program, they can be alerted of the presence of birds in real time while they are completing other tasks.
 
 ## The Algorithm
 
