@@ -10,8 +10,12 @@ The code starts by importing the necessary tools from jetson libraries. It then 
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. SSH into your jetson nano
+2. Install git and cmake
+3. Clone the jetson library into your nano
+4. Clone this github repository into your nano
+5. Change directories to the folder with the project
+6. Run the project using "python3 bird.py"
 
-1. 
+To end the recording, use ctrl+c, and the recording session will be diplayed under the name "bird_video.mp4"
 [View a video explanation here](video link)
