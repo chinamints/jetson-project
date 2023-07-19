@@ -19,5 +19,5 @@ while True:
 
     for detection in detections:
         if net.GetClassDesc(detection.ClassID) == "bird":
-            print("bord")
+            print("There is a bird.")
             time.sleep(5) # stops spam
