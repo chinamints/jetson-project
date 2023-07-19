@@ -18,4 +18,5 @@ The code starts by importing the necessary tools from jetson libraries. It then 
 6. Run the project using "python3 bird.py"
 
 To end the recording, use ctrl+c, and the recording session will be diplayed under the name "bird_video.mp4"
-[View a video explanation here](video link)
+
+[View a video explanation here]
